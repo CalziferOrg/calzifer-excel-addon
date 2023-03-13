@@ -33,7 +33,7 @@
     "@babel/core": "^7.21.0",
     "@babel/preset-env": "^7.12.11",
     "@babel/preset-typescript": "^7.21.0",
-    "@types/office-js": "^1.0.316",
+    "@types/office-js": "^1.0.318",
     "@types/office-runtime": "^1.0.17",
     "acorn": "^8.8.2",
     "babel-loader": "^9.1.2",
